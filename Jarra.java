@@ -29,4 +29,5 @@ public class Jarra {
 	public void metodoComunitario(){
 	// Comentario incluido para pruebas
 		System.out.println("Aqui escribimos todos");
+		System.out.println("Julia del Río Toledo");
 	}

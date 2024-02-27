@@ -49,4 +49,5 @@ public class Jarra {
 		System.out.println("Aqui escribimos todos");
 		System.out.println("Julia del Río Toledo");
 		System.out.println("Adriana Jubera Garcia");
+		System.out.println("Juan Jesús Rus Muñoz");
 	}
